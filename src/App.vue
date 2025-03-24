@@ -1,10 +1,11 @@
 <script setup>
-import HelloWorld from './components/HelloWorld.vue'
+import Principall from './components/Principall.vue'
+
 </script>
 
 <template>
   
-  <HelloWorld msg="Vite + Vue" />
+  <Principall msg="Vite + Vue" />
 </template>
 
 <style scoped>
